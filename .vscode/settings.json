@@ -1,4 +1,10 @@
 {
+  // Recording...
+  //   "wordbench.statusBar.visible": false,
+  //   "workbench.editor.showTabs": "single",
+  //   "workbench.editor.enablePreview": false,
+  //   "workbench.activityBar.location": "hidden",
+  //--
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
